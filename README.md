@@ -24,9 +24,6 @@
 <br/>
 
 <!-- About Me Section -->
-<div style="display: flex; flex-wrap: wrap; align-items: flex-start; justify-content: space-between; gap: 28px; margin: 12px 0 8px 0;">
-
-<div style="flex: 1 1 300px; min-width: 260px;">
 
 ## 🚀 About Me
 
@@ -44,14 +41,6 @@ motto: "I build scalable systems, not just apps 🚀"
 - 🎯 Goal: Contribute to **Open Source** & build **impactful products**
 - 📫 Reach me at **[LinkedIn](https://www.linkedin.com/in/deveshmaurya1996)**
 - 🌐 Portfolio: **[devesh-maurya-portfolio.vercel.app](https://devesh-maurya-portfolio.vercel.app/)**
-
-</div>
-
-<div style="flex: 0 1 340px; max-width: 100%; align-self: flex-start; text-align: center;">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" width="340" style="max-width: 100%; height: auto; display: block; margin: 0 auto; border-radius: 10px;" />
-</div>
-
-</div>
 
 <br/>
 
