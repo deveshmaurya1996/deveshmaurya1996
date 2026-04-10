@@ -323,7 +323,7 @@ npx @dartix-software-solutions/create-fullstack-app
 <a href="https://github.com/deveshmaurya1996"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=deveshmaurya1996&show_icons=true&hide_rank=true&hide_title=true&count_private=true&hide_border=true&title_color=00d4ff&icon_color=7b2ff7&text_color=c9d1d9&bg_color=00000000&border_color=00000000&ring_color=7b2ff7" alt="" width="465" height="220" style="width: 465px; max-width: 100%; height: auto; background: transparent;" /></a>
 </td>
 <td align="center" valign="top" width="50%" style="border: none; padding: 8px; background: transparent;">
-<a href="https://github.com/deveshmaurya1996"><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=deveshmaurya1996&layout=compact&hide_title=true&hide_border=true&title_color=00d4ff&icon_color=7b2ff7&text_color=c9d1d9&bg_color=00000000&border_color=00000000&langs_count=10&card_width=495" alt="" width="465" height="220" style="width: 465px; max-width: 100%; height: auto; background: transparent;" /></a>
+<a href="https://github.com/deveshmaurya1996"><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=deveshmaurya1996&layout=compact&hide_title=true&hide_border=true&title_color=00d4ff&icon_color=7b2ff7&text_color=c9d1d9&bg_color=00000000&border_color=00000000&langs_count=10&card_width=380" alt="" width="465" height="220" style="width: 465px; max-width: 100%; height: auto; background: transparent;" /></a>
 </td>
 </tr>
 </table>
