@@ -1,64 +1,106 @@
-# Hi, I'm Devesh Maurya 👋
-
-🚀 Full Stack Developer (4+ years)  
-⚡ Building scalable web, mobile & AI-powered applications  
-🏢 Full Stack Developer @ Bull Shark | Founder @ Dartix  
+# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Devesh+Maurya+%F0%9F%91%8B;Full+Stack+Developer;AI+%7C+SaaS+%7C+Mobile+Builder;I+Build+Scalable+Products+🚀" />
 
 ---
 
-## 🔥 What I Do
+## 🚀 About Me
 
-- Build scalable SSR apps using Next.js  
-- Design backend systems (Node.js, FastAPI)  
-- Develop mobile apps (React Native)  
-- Integrate AI into production apps  
+💻 Full Stack Developer (4+ years)  
+⚡ Building scalable **Web, Mobile & AI-powered applications**  
+🏢 Full Stack Developer @ Bull Shark  
+🚀 Founder @ Dartix  
+
+---
+
+## 🔥 Recent Work
+
+### 🛠 Fullstack CLI Tool
+👉 `npx @dartix-software-solutions/create-fullstack-app`
+
+- Generate full-stack apps instantly  
+- Next.js + Node.js setup  
+- Developer productivity focused  
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🤖 YOChatGPT – Multi-model AI Platform
-- Real-time AI chat with multiple models  
-- Built using Next.js + MongoDB  
+### 📱 Thriveon – AI Powered Mobile App
+- Cross-platform app (React Native + Expo)  
+- AI workflows using Azure OpenAI  
+- Google OAuth authentication  
+
+---
 
 ### 🎮 Aicade – AI Game Builder
 - AI-assisted 2D game creation  
-- RAG + AI integration  
+- RAG + Mistral AI integration  
+- Interactive UI with Phaser  
 
-### 📱 Thriveon – Mobile App
-- Cross-platform app with AI workflows  
-- Google OAuth authentication  
+---
+
+### 🤖 YOChatGPT – Multi-model AI Platform
+- Real-time AI chat system  
+- GPT-4, Gemini, LLaMA support  
+- Built for scalability  
+
+---
 
 ### 🧑‍💼 Lands Authority – Employee Tracking System
-- Attendance, RBAC, analytics dashboard  
-- Built with Next.js + PostgreSQL  
+- Attendance tracking + RBAC  
+- SSR optimized dashboards  
+- Enterprise-grade architecture  
 
-### 🛠 Fullstack CLI Tool
-- Generate full-stack apps instantly  
-- `npx @dartix-software-solutions/create-fullstack-app`  
+---
+
+### 📊 Lalima – Project Management Tool
+- Task boards + team workflows  
+- Role-based access system  
+- Scalable backend APIs  
 
 ---
 
 ## 🧠 Tech Stack
 
-**Frontend:** Next.js, React, TypeScript, Tailwind  
-**Mobile:** React Native, Expo  
-**Backend:** Node.js, FastAPI  
-**Database:** PostgreSQL, MongoDB  
-**AI:** OpenAI, Azure AI  
-**Cloud:** Vercel, AWS, DigitalOcean  
+### 🚀 Frontend
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,redux" />
+
+### ⚙️ Backend
+<img src="https://skillicons.dev/icons?i=nodejs,fastapi,express" />
+
+### 🗄 Database
+<img src="https://skillicons.dev/icons?i=postgres,mongodb" />
+
+### 📱 Mobile
+<img src="https://skillicons.dev/icons?i=react" /> React Native (Expo)
+
+### 🤖 AI / Tools
+<img src="https://skillicons.dev/icons?i=aws,vercel,docker" />
 
 ---
 
-## 📫 Connect
+## 📊 GitHub Stats
 
-- 🌐 Portfolio: https://devesh-maurya-portfolio.vercel.app  
-- 💼 LinkedIn: https://www.linkedin.com/in/deveshmaurya1996  
+![Devesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=deveshmaurya1996&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deveshmaurya1996&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Connect With Me
+
+🌐 Portfolio: https://devesh-maurya-portfolio.vercel.app  
+💼 LinkedIn: https://www.linkedin.com/in/deveshmaurya1996  
 
 ---
 
 ## ⚡ Currently Building
 
-- AI Video Generator (Text → Video)  
-- Offline Chat App (Nearby API)  
-- Developer CLI Tools  
+- 🎬 AI Video Generator (Text → Video)  
+- 📡 Offline Chat App (Nearby API)  
+- 🛠 Developer CLI Tools  
+
+---
+
+## 🧠 Fun Fact
+
+I don’t just write code — I build scalable systems 🚀
