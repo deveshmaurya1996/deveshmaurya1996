@@ -32,7 +32,7 @@ name: Devesh Maurya
 role: Full Stack Developer @ Bull Shark
 experience: 4+ years
 focus: Web, Mobile & AI-powered Applications
-motto: "I build scalable systems, not just apps 🚀"
+motto: "Aim for software that stays easy to change as it grows"
 ```
 
 - 🔭 Currently working at **Bull Shark** as a **Full Stack Developer**
@@ -110,11 +110,10 @@ npx @dartix-software-solutions/create-fullstack-app
 
 <img src="https://img.shields.io/badge/OpenAI-GPT-412991?style=flat-square&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/Anthropic-Claude-D4A27F?style=flat-square&logo=anthropic&logoColor=white" /> <img src="https://img.shields.io/badge/Google-Gemini%20%2F%20Gemma-4285F4?style=flat-square&logo=google&logoColor=white" /> <img src="https://img.shields.io/badge/Meta-Llama-0467DF?style=flat-square&logo=meta&logoColor=white" /> <img src="https://img.shields.io/badge/Mistral-Mixtral-FF7000?style=flat-square&logo=mistral&logoColor=white" /> <img src="https://img.shields.io/badge/DeepSeek-models-4D6BFE?style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/RAG-00d4ff?style=flat-square" />
 
-🔹 Real-time AI chat with a **unified API** across many providers<br/>
-🔹 First-class support for **GPT**, **Claude**, **Gemini / Gemma**, **Llama**, **Mistral / Mixtral**, **DeepSeek**, plus more models behind the same API<br/>
-🔹 **RAG** for retrieval-augmented answers on your own documents and data<br/>
-🔹 Swap or compare models without rewriting the client<br/>
-🔹 Built for **scale**, observability, and multi-tenant workloads
+🔹 Real-time chat, one **unified API** across providers<br/>
+🔹 **GPT**, **Claude**, **Gemini / Gemma**, **Llama**, **Mistral**, **DeepSeek**, and more<br/>
+🔹 **RAG** on your own documents and data<br/>
+🔹 Swap models without rewrites; built to **scale** for teams
 
 </td>
 <td width="50%">
@@ -318,12 +317,16 @@ npx @dartix-software-solutions/create-fullstack-app
 
 ## 📊 GitHub Stats
 
-<p align="center">Devesh Maurya GitHub Stats &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Devesh Maurya Top Languages</p>
-<p align="center">
-<a href="https://github.com/deveshmaurya1996"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=deveshmaurya1996&show_icons=true&hide_rank=true&hide_title=true&count_private=true&hide_border=true&title_color=00d4ff&icon_color=7b2ff7&text_color=c9d1d9&bg_color=0d1117&border_color=0d1117&ring_color=7b2ff7" alt="" width="415" height="200" style="max-width: 48%; height: auto; vertical-align: top;" /></a>
-&nbsp;&nbsp;
-<a href="https://github.com/deveshmaurya1996"><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=deveshmaurya1996&layout=compact&hide_title=true&hide_border=true&title_color=00d4ff&icon_color=7b2ff7&text_color=c9d1d9&bg_color=0d1117&border_color=0d1117&langs_count=10&card_width=495" alt="" width="415" height="200" style="max-width: 48%; height: auto; vertical-align: top;" /></a>
-</p>
+<table align="center" border="0" cellspacing="12" cellpadding="0" width="100%" style="max-width: 980px; border: none; border-collapse: collapse; background: transparent;">
+<tr>
+<td align="center" valign="top" width="50%" style="border: none; padding: 8px; background: transparent;">
+<a href="https://github.com/deveshmaurya1996"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=deveshmaurya1996&show_icons=true&hide_rank=true&hide_title=true&count_private=true&hide_border=true&title_color=00d4ff&icon_color=7b2ff7&text_color=c9d1d9&bg_color=00000000&border_color=00000000&ring_color=7b2ff7" alt="" width="465" height="220" style="width: 465px; max-width: 100%; height: auto; background: transparent;" /></a>
+</td>
+<td align="center" valign="top" width="50%" style="border: none; padding: 8px; background: transparent;">
+<a href="https://github.com/deveshmaurya1996"><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=deveshmaurya1996&layout=compact&hide_title=true&hide_border=true&title_color=00d4ff&icon_color=7b2ff7&text_color=c9d1d9&bg_color=00000000&border_color=00000000&langs_count=10&card_width=495" alt="" width="465" height="220" style="width: 465px; max-width: 100%; height: auto; background: transparent;" /></a>
+</td>
+</tr>
+</table>
 
 <br/>
 
