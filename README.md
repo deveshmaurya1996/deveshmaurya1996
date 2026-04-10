@@ -316,10 +316,10 @@ npx @dartix-software-solutions/create-fullstack-app
 
 <div align="center">
   <a href="https://github.com/deveshmaurya1996">
-    <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=deveshmaurya1996&show_icons=true&count_private=true&hide_border=true&title_color=00d4ff&icon_color=7b2ff7&text_color=c9d1d9&bg_color=0d1117&ring_color=7b2ff7" alt="Devesh Maurya GitHub Stats" />
+    <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=deveshmaurya1996&show_icons=true&hide_rank=true&count_private=true&hide_border=true&title_color=00d4ff&icon_color=7b2ff7&text_color=c9d1d9&bg_color=0d1117&border_color=0d1117&ring_color=7b2ff7" alt="Devesh Maurya GitHub Stats" />
   </a>
   <a href="https://github.com/deveshmaurya1996">
-    <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=deveshmaurya1996&layout=compact&hide_border=true&title_color=00d4ff&text_color=c9d1d9&bg_color=0d1117&langs_count=10" alt="Top Languages" />
+    <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=deveshmaurya1996&layout=compact&hide_border=true&title_color=00d4ff&icon_color=7b2ff7&text_color=c9d1d9&bg_color=0d1117&border_color=0d1117&langs_count=10&card_width=495" alt="Top Languages" />
   </a>
 </div>
 
@@ -345,7 +345,7 @@ npx @dartix-software-solutions/create-fullstack-app
 <!-- Trophies -->
 <div align="center">
   <a href="https://github.com/deveshmaurya1996">
-    <img src="https://github-profile-trophy.vercel.app/?username=deveshmaurya1996&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+    <img src="https://profile-trophy.vercel.app/?username=deveshmaurya1996&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
   </a>
 </div>
 
@@ -409,9 +409,9 @@ Developer workflow automation
 ## 🐍 My Contributions
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/deveshmaurya1996/deveshmaurya1996/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/deveshmaurya1996/deveshmaurya1996/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/deveshmaurya1996/deveshmaurya1996/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/deveshmaurya1996/deveshmaurya1996/main/assets/github-snake/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/deveshmaurya1996/deveshmaurya1996/main/assets/github-snake/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/deveshmaurya1996/deveshmaurya1996/main/assets/github-snake/github-contribution-grid-snake-dark.svg" width="100%" />
 </picture>
 
 </div>
