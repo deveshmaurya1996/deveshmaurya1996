@@ -83,8 +83,10 @@
 
 ### 📱 Mobile Development
 <p>
-  <img src="https://skillicons.dev/icons?i=react" /> React Native (Expo)
+  <img src="https://skillicons.dev/icons?i=react" />
 </p>
+
+- React Native (Expo)
 
 ### 🤖 AI / ML & Tools
 <p>
@@ -103,9 +105,13 @@
 
 ## 📊 GitHub Stats
 
-![Devesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=deveshmaurya1996&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=deveshmaurya1996&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deveshmaurya1996&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deveshmaurya1996&theme=tokyonight&hide_border=true" />
+</p>//github-readme-stats.vercel.app/api/top-langs/?username=deveshmaurya1996&layout=compact&theme=tokyonight)
 
 ---
 
