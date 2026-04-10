@@ -67,20 +67,38 @@
 ## 🧠 Tech Stack
 
 ### 🚀 Frontend
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,redux" />
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,redux,vue,nuxtjs" />
+</p>
 
-### ⚙️ Backend
-<img src="https://skillicons.dev/icons?i=nodejs,fastapi,express" />
+### ⚙️ Backend & APIs
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,graphql" />
+</p>
 
 ### 🗄 Database
-<img src="https://skillicons.dev/icons?i=postgres,mongodb" />
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite" />
+</p>
 
-### 📱 Mobile
-<img src="https://skillicons.dev/icons?i=react" /> React Native (Expo)
+### 📱 Mobile Development
+<p>
+  <img src="https://skillicons.dev/icons?i=react" /> React Native (Expo)
+</p>
 
-### 🤖 Tools & Cloud
-<img src="https://skillicons.dev/icons?i=aws,vercel,docker" />
+### 🤖 AI / ML & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=python,aws,docker,vercel" />
+</p>
 
+### 🔐 Auth & Security
+- OAuth, JWT, RBAC, Azure Entra ID, B2C
+
+### ⚡ State & Data
+- TanStack Query, SWR, Redux
+
+### ☁️ DevOps & Deployment
+- AWS, Vercel, DigitalOcean, CI/CD
 ---
 
 ## 📊 GitHub Stats
