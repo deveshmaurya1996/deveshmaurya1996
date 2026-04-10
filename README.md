@@ -318,34 +318,24 @@ npx @dartix-software-solutions/create-fullstack-app
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: flex-start; gap: 24px; max-width: 920px; margin: 0 auto;">
-    <div style="text-align: center; flex: 1 1 280px; max-width: 430px;">
-      Devesh Maurya GitHub Stats<br/><br/>
-      <a href="https://github.com/deveshmaurya1996">
-        <img
-          src="https://github-readme-stats-sigma-five.vercel.app/api?username=deveshmaurya1996&show_icons=true&hide_rank=true&hide_title=true&count_private=true&hide_border=true&title_color=00d4ff&icon_color=7b2ff7&text_color=c9d1d9&bg_color=0d1117&border_color=0d1117&ring_color=7b2ff7"
-          alt="Devesh Maurya GitHub Stats"
-          width="415"
-          height="200"
-          style="max-width: 100%; height: 200px; object-fit: contain; object-position: center;"
-        />
-      </a>
-    </div>
-    <div style="text-align: center; flex: 1 1 280px; max-width: 430px;">
-      Devesh Maurya Top Languages<br/><br/>
-      <a href="https://github.com/deveshmaurya1996">
-        <img
-          src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=deveshmaurya1996&layout=compact&hide_title=true&hide_border=true&title_color=00d4ff&icon_color=7b2ff7&text_color=c9d1d9&bg_color=0d1117&border_color=0d1117&langs_count=10&card_width=495"
-          alt="Devesh Maurya Top Languages"
-          width="415"
-          height="200"
-          style="max-width: 100%; height: 200px; object-fit: contain; object-position: center;"
-        />
-      </a>
-    </div>
-  </div>
-</div>
+<table align="center" width="100%" style="max-width: 920px; table-layout: fixed; border: 0;" cellspacing="0" cellpadding="0">
+<tr>
+<td align="center" valign="bottom" width="50%" style="padding: 0 10px 8px 10px;">Devesh Maurya GitHub Stats</td>
+<td align="center" valign="bottom" width="50%" style="padding: 0 10px 8px 10px;">Devesh Maurya Top Languages</td>
+</tr>
+<tr>
+<td align="center" valign="top" width="50%" style="padding: 4px 10px;">
+<a href="https://github.com/deveshmaurya1996">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=deveshmaurya1996&show_icons=true&hide_rank=true&hide_title=true&count_private=true&hide_border=true&title_color=00d4ff&icon_color=7b2ff7&text_color=c9d1d9&bg_color=0d1117&border_color=0d1117&ring_color=7b2ff7" alt="GitHub stats card" width="415" height="200" style="max-width: 100%; height: 200px; object-fit: contain;" />
+</a>
+</td>
+<td align="center" valign="top" width="50%" style="padding: 4px 10px;">
+<a href="https://github.com/deveshmaurya1996">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=deveshmaurya1996&layout=compact&hide_title=true&hide_border=true&title_color=00d4ff&icon_color=7b2ff7&text_color=c9d1d9&bg_color=0d1117&border_color=0d1117&langs_count=10&card_width=495" alt="Top languages card" width="415" height="200" style="max-width: 100%; height: 200px; object-fit: contain;" />
+</a>
+</td>
+</tr>
+</table>
 
 <br/>
 
