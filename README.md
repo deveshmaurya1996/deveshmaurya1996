@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Devesh+Maurya+👋;Full+Stack+Developer;AI+%7C+SaaS+%7C+Mobile+Builder;I+Build+Scalable+Products+🚀" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007CF0&height=200&section=header&text=Devesh%20Maurya&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+%7C+SaaS+%7C+Mobile+Builder;I+Build+Scalable+Products+🚀" />
 </p>
 
 ---
@@ -9,7 +13,6 @@
 💻 Full Stack Developer (4+ years)  
 ⚡ Building scalable **Web, Mobile & AI-powered applications**  
 🏢 Full Stack Developer @ Bull Shark  
-🚀 Founder @ Dartix  
 
 ---
 
@@ -75,7 +78,7 @@
 ### 📱 Mobile
 <img src="https://skillicons.dev/icons?i=react" /> React Native (Expo)
 
-### 🤖 AI / Tools
+### 🤖 Tools & Cloud
 <img src="https://skillicons.dev/icons?i=aws,vercel,docker" />
 
 ---
@@ -88,9 +91,14 @@
 
 ---
 
+## 🌐 Portfolio
+
+👉 https://devesh-maurya-portfolio.vercel.app/
+
+---
+
 ## 📫 Connect With Me
 
-🌐 Portfolio: https://devesh-maurya-portfolio.vercel.app  
 💼 LinkedIn: https://www.linkedin.com/in/deveshmaurya1996  
 
 ---
@@ -105,4 +113,4 @@
 
 ## 🧠 Fun Fact
 
-I don’t just write code — I build scalable systems 🚀
+I build scalable systems, not just apps 🚀
