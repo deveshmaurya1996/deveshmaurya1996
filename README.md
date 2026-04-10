@@ -6,7 +6,7 @@
 <!-- Typing SVG -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=%F0%9F%9A%80+Building+Scalable+Web%2C+Mobile+%26+AI+Applications;%E2%9A%A1+4%2B+Years+of+Full+Stack+Development;%F0%9F%94%A5+Turning+Ideas+Into+Production+Systems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=%F0%9F%9A%80+Building+Scalable+Web%2C+Mobile+%26+AI+Applications;%E2%9A%A1+4%2B+Years+of+Full+Stack+Development;" alt="Typing SVG" />
   </a>
 </div>
 
@@ -24,7 +24,9 @@
 <br/>
 
 <!-- About Me Section -->
-<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<div style="display: flex; flex-wrap: wrap; align-items: flex-start; justify-content: space-between; gap: 28px; margin: 12px 0 8px 0;">
+
+<div style="flex: 1 1 300px; min-width: 260px;">
 
 ## 🚀 About Me
 
@@ -37,13 +39,21 @@ motto: "I build scalable systems, not just apps 🚀"
 ```
 
 - 🔭 Currently working at **Bull Shark** as a **Full Stack Developer**
-- 🌱 Building **AI Video Generator**, **Offline Chat App** & **Developer CLI Tools**
+- 🌱 Building **Media Bunch**, **DevHire** & **Developer CLI Tools**
 - 💡 Passionate about **scalable architecture** and **AI integration**
 - 🎯 Goal: Contribute to **Open Source** & build **impactful products**
 - 📫 Reach me at **[LinkedIn](https://www.linkedin.com/in/deveshmaurya1996)**
 - 🌐 Portfolio: **[devesh-maurya-portfolio.vercel.app](https://devesh-maurya-portfolio.vercel.app/)**
 
-<br clear="both"/>
+</div>
+
+<div style="flex: 0 1 340px; max-width: 100%; align-self: flex-start; text-align: center;">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" width="340" style="max-width: 100%; height: auto; display: block; margin: 0 auto; border-radius: 10px;" />
+</div>
+
+</div>
+
+<br/>
 
 ---
 
@@ -109,12 +119,13 @@ npx @dartix-software-solutions/create-fullstack-app
 
 ### 🤖 YOChatGPT — Multi-model AI Platform
 
-<img src="https://img.shields.io/badge/GPT--4-412991?style=flat-square&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=google&logoColor=white" /> <img src="https://img.shields.io/badge/LLaMA-0467DF?style=flat-square&logo=meta&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAI-GPT-412991?style=flat-square&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/Anthropic-Claude-D4A27F?style=flat-square&logo=anthropic&logoColor=white" /> <img src="https://img.shields.io/badge/Google-Gemini%20%2F%20Gemma-4285F4?style=flat-square&logo=google&logoColor=white" /> <img src="https://img.shields.io/badge/Meta-Llama-0467DF?style=flat-square&logo=meta&logoColor=white" /> <img src="https://img.shields.io/badge/Mistral-Mistral%20%2F%20Mixtral-FF7000?style=flat-square&logo=mistral&logoColor=white" /> <img src="https://img.shields.io/badge/Alibaba-Qwen-FF6A00?style=flat-square&logo=alibabacloud&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/DeepSeek-models-4D6BFE?style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/xAI-Grok-000000?style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/Microsoft-Phi-0078D4?style=flat-square&logo=microsoft&logoColor=white" /> <img src="https://img.shields.io/badge/TheDrummer-models-7C3AED?style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/MiniMax-MiniMax-DB2777?style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/Sarvam-Sarvam-0EA5E9?style=flat-square&logoColor=white" />
 
-- 🔹 Real-time AI chat system
-- 🔹 GPT-4, Gemini, LLaMA support
-- 🔹 Built for scalability
-- 🔹 Multi-model architecture
+- 🔹 Real-time AI chat with a **unified API** across many providers
+- 🔹 **OpenAI (GPT)**, **Anthropic (Claude)**, **Google (Gemini / Gemma)**, **Meta (Llama)**, **Mistral / Mixtral**, **Qwen**, **DeepSeek**, **xAI (Grok)**, **Microsoft Phi**, **TheDrummer**, **MiniMax**, **Sarvam**, and more
+- 🔹 Swap or compare models without rewriting the client
+- 🔹 Built for **scale**, observability, and multi-tenant workloads
 
 </td>
 <td width="50%">
@@ -135,9 +146,13 @@ npx @dartix-software-solutions/create-fullstack-app
 
 ### 📊 Lalima — Project Management Tool
 
-<img src="https://img.shields.io/badge/Task_Boards-7B2FF7?style=flat-square" /> <img src="https://img.shields.io/badge/Team_Workflows-00d4ff?style=flat-square" /> <img src="https://img.shields.io/badge/Scalable_APIs-FF6B35?style=flat-square" />
+<img src="https://img.shields.io/badge/Task_Boards-7B2FF7?style=flat-square" /> <img src="https://img.shields.io/badge/Team_Workflows-00d4ff?style=flat-square" /> <img src="https://img.shields.io/badge/Scalable_APIs-FF6B35?style=flat-square" /> <img src="https://img.shields.io/badge/RBAC-1a1a2e?style=flat-square" /> <img src="https://img.shields.io/badge/Collaboration-00d4ff?style=flat-square" />
 
-🔹 Task boards + team workflows &nbsp;&nbsp;|&nbsp;&nbsp; 🔹 Role-based access system &nbsp;&nbsp;|&nbsp;&nbsp; 🔹 Scalable backend APIs
+- 🔹 **Kanban-style boards**, milestones, and assignments so teams see status at a glance
+- 🔹 **Role-based access** for admins, leads, and contributors across projects and workspaces
+- 🔹 **Workflows** for handoffs, reviews, and recurring tasks without losing context
+- 🔹 **RESTful / scalable APIs** to integrate with your stack, webhooks, and reporting
+- 🔹 Built for **multi-project** orgs that need clarity, not another noisy inbox
 
 </td>
 </tr>
@@ -315,12 +330,40 @@ npx @dartix-software-solutions/create-fullstack-app
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/deveshmaurya1996">
-    <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=deveshmaurya1996&show_icons=true&hide_rank=true&count_private=true&hide_border=true&title_color=00d4ff&icon_color=7b2ff7&text_color=c9d1d9&bg_color=0d1117&border_color=0d1117&ring_color=7b2ff7" alt="Devesh Maurya GitHub Stats" />
-  </a>
-  <a href="https://github.com/deveshmaurya1996">
-    <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=deveshmaurya1996&layout=compact&hide_border=true&title_color=00d4ff&icon_color=7b2ff7&text_color=c9d1d9&bg_color=0d1117&border_color=0d1117&langs_count=10&card_width=495" alt="Top Languages" />
-  </a>
+  <table style="max-width: 920px; width: 100%; table-layout: fixed; border-collapse: collapse;">
+    <tr>
+      <td align="center" width="50%" style="padding: 0 8px 10px 8px; vertical-align: bottom;">
+        <strong style="font-size: 16px; font-weight: 600; line-height: 1.3;">Devesh Maurya · GitHub Stats</strong>
+      </td>
+      <td align="center" width="50%" style="padding: 0 8px 10px 8px; vertical-align: bottom;">
+        <strong style="font-size: 16px; font-weight: 600; line-height: 1.3;">Devesh Maurya · Top Languages</strong>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" style="padding: 4px 8px; vertical-align: top;">
+        <a href="https://github.com/deveshmaurya1996">
+          <img
+            src="https://github-readme-stats-sigma-five.vercel.app/api?username=deveshmaurya1996&show_icons=true&hide_rank=true&hide_title=true&count_private=true&hide_border=true&title_color=00d4ff&icon_color=7b2ff7&text_color=c9d1d9&bg_color=0d1117&border_color=0d1117&ring_color=7b2ff7"
+            alt="Devesh Maurya GitHub Stats"
+            width="415"
+            height="200"
+            style="max-width: 100%; height: 200px; object-fit: contain; object-position: center;"
+          />
+        </a>
+      </td>
+      <td align="center" style="padding: 4px 8px; vertical-align: top;">
+        <a href="https://github.com/deveshmaurya1996">
+          <img
+            src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=deveshmaurya1996&layout=compact&hide_title=true&hide_border=true&title_color=00d4ff&icon_color=7b2ff7&text_color=c9d1d9&bg_color=0d1117&border_color=0d1117&langs_count=10&card_width=495"
+            alt="Devesh Maurya Top Languages"
+            width="415"
+            height="200"
+            style="max-width: 100%; height: 200px; object-fit: contain; object-position: center;"
+          />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br/>
@@ -359,25 +402,25 @@ npx @dartix-software-solutions/create-fullstack-app
 <table>
 <tr>
 <td align="center" width="33%">
-<img src="https://img.shields.io/badge/🎬_AI_Video_Generator-7b2ff7?style=for-the-badge" />
-<br/><br/>
-<b>Text → Video</b>
-<br/>
-AI-powered video generation
-</td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/📡_Offline_Chat_App-00d4ff?style=for-the-badge" />
-<br/><br/>
-<b>Nearby API</b>
-<br/>
-Peer-to-peer messaging
-</td>
-<td align="center" width="33%">
 <img src="https://img.shields.io/badge/🛠_Developer_CLI_Tools-FF6B35?style=for-the-badge" />
 <br/><br/>
 <b>CLI Productivity</b>
 <br/>
 Developer workflow automation
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/📦_Media_Bunch-9D4EDD?style=for-the-badge" />
+<br/><br/>
+<b>Content hub</b>
+<br/>
+Media pipelines, assets &amp; delivery
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/🤝_DevHire-10B981?style=for-the-badge" />
+<br/><br/>
+<b>Dev hiring</b>
+<br/>
+Match teams with vetted engineering talent
 </td>
 </tr>
 </table>
@@ -409,9 +452,9 @@ Developer workflow automation
 ## 🐍 My Contributions
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/deveshmaurya1996/deveshmaurya1996/main/assets/github-snake/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/deveshmaurya1996/deveshmaurya1996/main/assets/github-snake/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/deveshmaurya1996/deveshmaurya1996/main/assets/github-snake/github-contribution-grid-snake-dark.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/deveshmaurya1996/deveshmaurya1996/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/deveshmaurya1996/deveshmaurya1996/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/deveshmaurya1996/deveshmaurya1996/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </picture>
 
 </div>
