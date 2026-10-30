@@ -36,7 +36,7 @@ motto: "Aim for software that stays easy to change as it grows"
 ```
 
 - 🔭 Currently working at **Bull Shark** as a **Full Stack Developer**
-- 🌱 Building **Media Bunch**, **DevHire** & **Developer CLI Tools**
+- 🌱 Building **AI Gate**, **Media Bunch** & **DevHire**
 - 💡 Passionate about **scalable architecture** and **AI integration**
 - 🎯 Goal: Contribute to **Open Source** & build **impactful products**
 - 📫 Reach me at **[LinkedIn](https://www.linkedin.com/in/deveshmaurya1996)**
@@ -46,25 +46,32 @@ motto: "Aim for software that stays easy to change as it grows"
 
 ---
 
-<!-- CLI Tool Section -->
+<!-- Recent Work — AI Gate -->
 <div align="center">
 
-## 🔥 Recent Work — Fullstack CLI Tool
+## 🔥 Recent Work — AI Gate
 
-<img src="https://img.shields.io/badge/npx-@dartix--software--solutions/create--fullstack--app-00d4ff?style=for-the-badge&logo=npm&logoColor=white" />
+<img src="https://img.shields.io/badge/One%20API.-Every%20AI.-00d4ff?style=for-the-badge" />
+<br/><br/>
+<a href="https://aigate.dartix.live">
+  <img src="https://img.shields.io/badge/Dashboard-aigate.dartix.live-7b2ff7?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="https://www.npmjs.com/package/@dartix-software-solutions/ai-gate">
+  <img src="https://img.shields.io/badge/npm-@dartix--software--solutions/ai--gate-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+</a>
 
 </div>
 
 ```bash
-npx @dartix-software-solutions/create-fullstack-app
+npm install @dartix-software-solutions/ai-gate
 ```
 
 <div align="center">
 <table>
   <tr>
-    <td align="center">⚡ Generate full-stack apps instantly</td>
-    <td align="center">🏗️ Next.js + Node.js setup</td>
-    <td align="center">🚀 Developer productivity focused</td>
+    <td align="center">🔀 Unified AI gateway + smart routing</td>
+    <td align="center">🔑 Project API keys & quotas</td>
+    <td align="center">📊 Developer dashboard</td>
   </tr>
 </table>
 </div>
