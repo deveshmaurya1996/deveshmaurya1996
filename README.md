@@ -1,12 +1,12 @@
 <!-- Header Banner -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:7b2ff7&height=220&section=header&text=Devesh%20Maurya&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Builder&descSize=18&descAlignY=55&descAlign=50" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:7b2ff7&height=220&section=header&text=Devesh%20Maurya&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%20Enthusiast%20%7C%20Builder&descSize=18&descAlignY=55&descAlign=50" />
 </div>
 
 <!-- Typing SVG -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=%F0%9F%9A%80+Building+Scalable+Web%2C+Mobile+%26+AI+Applications;%E2%9A%A1+4%2B+Years+of+Full+Stack+Development;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=%F0%9F%9A%80+Building+Scalable+Web%2C+Mobile+%26+AI+Applications;%E2%9A%A1+4%2B+Years+of+Software+Engineering;" alt="Typing SVG" />
   </a>
 </div>
 
@@ -30,13 +30,13 @@
 
 ```yaml
 name: Devesh Maurya
-role: Full Stack Developer @ Bull Shark
+role: Software Engineer
 experience: 4+ years
 focus: Web, Mobile & AI-powered Applications
 motto: "Aim for software that stays easy to change as it grows"
 ```
 
-- 🔭 Currently working at **Bull Shark** as a **Full Stack Developer**
+- 🔭 Working as a **Software Engineer** building web, mobile & AI products
 - 🌱 Building **AI Gate**, **Media Bunch** & **DevHire**
 - 💡 Passionate about **scalable architecture** and **AI integration**
 - 🎯 Goal: Contribute to **Open Source** & build **impactful products**
