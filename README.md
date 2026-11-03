@@ -1,439 +1,118 @@
-<!-- Header Banner -->
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:7b2ff7&height=220&section=header&text=Devesh%20Maurya&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Builder&descSize=18&descAlignY=55&descAlign=50" />
-</div>
+# Devesh Maurya
 
-<!-- Typing SVG -->
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=%F0%9F%9A%80+Building+Scalable+Web%2C+Mobile+%26+AI+Applications;%E2%9A%A1+4%2B+Years+of+Full+Stack+Development;" alt="Typing SVG" />
-  </a>
-</div>
+**Full Stack Developer @ Bull Shark** · Web, Mobile & AI · 4+ years
 
-<!-- Profile Views & Followers -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=deveshmaurya1996&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-  <a href="https://github.com/deveshmaurya1996?tab=followers">
-    <img src="https://img.shields.io/github/followers/deveshmaurya1996?label=Followers&style=for-the-badge&color=7b2ff7" alt="followers" />
-  </a>
-  <a href="https://github.com/deveshmaurya1996">
-    <img src="https://img.shields.io/github/stars/deveshmaurya1996?label=Stars&style=for-the-badge&color=00d4ff" alt="stars" />
-  </a>
-</div>
-
-<br/>
-
-<!-- About Me Section -->
-
-## 🚀 About Me
-
-```yaml
-name: Devesh Maurya
-role: Full Stack Developer @ Bull Shark
-experience: 4+ years
-focus: Web, Mobile & AI-powered Applications
-motto: "Aim for software that stays easy to change as it grows"
-```
-
-- 🔭 Currently working at **Bull Shark** as a **Full Stack Developer**
-- 🌱 Building **AI Gate**, **Media Bunch** & **DevHire**
-- 💡 Passionate about **scalable architecture** and **AI integration**
-- 🎯 Goal: Contribute to **Open Source** & build **impactful products**
-- 📫 Reach me at **[LinkedIn](https://www.linkedin.com/in/deveshmaurya1996)**
-- 🌐 Portfolio: **[devesh-maurya-portfolio.vercel.app](https://devesh-maurya-portfolio.vercel.app/)**
-
-<br/>
+[Portfolio](https://devesh-maurya-portfolio.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/deveshmaurya1996) · [GitHub](https://github.com/deveshmaurya1996)
 
 ---
 
-<!-- Recent Work — AI Gate -->
-<div align="center">
+### About
 
-## 🔥 Recent Work — AI Gate
+I ship end-to-end products — APIs, interfaces, mobile, and AI integrations — with architecture that stays easy to change as systems grow. Currently building at **Bull Shark**, with side products around AI gateways and developer tooling.
 
-<img src="https://img.shields.io/badge/One%20API.-Every%20AI.-00d4ff?style=for-the-badge" />
-<br/><br/>
-<a href="https://aigate.dartix.live">
-  <img src="https://img.shields.io/badge/Dashboard-aigate.dartix.live-7b2ff7?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-<a href="https://www.npmjs.com/package/@dartix-software-solutions/ai-gate">
-  <img src="https://img.shields.io/badge/npm-@dartix--software--solutions/ai--gate-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
-</a>
+> Aim for software that stays easy to change as it grows.
 
-</div>
+**Focus:** [AI Gate](https://aigate.dartix.live) · Media Bunch · DevHire
+
+---
+
+### Spotlight — AI Gate
+
+**One API. Every AI.** Unified AI gateway with project API keys, capacity-aware routing and failover, quotas, and a developer dashboard.
 
 ```bash
 npm install @dartix-software-solutions/ai-gate
 ```
 
-<div align="center">
-<table>
-  <tr>
-    <td align="center">🔀 Unified AI gateway + smart routing</td>
-    <td align="center">🔑 Project API keys & quotas</td>
-    <td align="center">📊 Developer dashboard</td>
-  </tr>
-</table>
-</div>
+[Dashboard](https://aigate.dartix.live) · [npm `@dartix-software-solutions/ai-gate`](https://www.npmjs.com/package/@dartix-software-solutions/ai-gate) · [Company](https://dartix.live)
+
+- Unified gateway with smart provider routing and failover
+- Project API keys, token/request quotas, encrypted premium credentials
+- Developer dashboard for keys, usage, and model catalog
 
 ---
 
-<!-- Featured Projects -->
+### Selected work
 
-## 🚀 Featured Projects
-
-<div align="center">
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 📱 Thriveon — AI Powered Mobile App
+**Thriveon** — AI-powered mobile app  
+Cross-platform React Native + Expo with Azure OpenAI workflows and Google OAuth.
 
-<img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" /> <img src="https://img.shields.io/badge/Azure_OpenAI-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
-
-🔹 Cross-platform app (React Native + Expo)<br/>
-🔹 AI workflows using Azure OpenAI<br/>
-🔹 Google OAuth authentication<br/>
-🔹 Smart AI-driven features
+<img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white" /> <img src="https://img.shields.io/badge/Azure_OpenAI-0078D4?style=flat&logo=microsoftazure&logoColor=white" />
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🎮 Aicade — AI Game Builder
+**YOChatGPT** — Multi-model AI platform  
+One API across GPT, Claude, Gemini, Llama, Mistral, DeepSeek — plus RAG on your data.
 
-<img src="https://img.shields.io/badge/Phaser-FF0000?style=flat-square&logo=phaser&logoColor=white" /> <img src="https://img.shields.io/badge/Mistral_AI-7B2FF7?style=flat-square&logo=ai&logoColor=white" /> <img src="https://img.shields.io/badge/RAG-00d4ff?style=flat-square" />
-
-🔹 AI-assisted 2D game creation<br/>
-🔹 RAG + Mistral AI integration<br/>
-🔹 Interactive UI with Phaser<br/>
-🔹 Innovative game development
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/Anthropic-D4A27F?style=flat&logo=anthropic&logoColor=white" /> <img src="https://img.shields.io/badge/RAG-00d4ff?style=flat" />
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🤖 YOChatGPT — Multi-model AI Platform
+**Aicade** — AI game builder  
+AI-assisted 2D game creation with RAG, Mistral, and Phaser.
 
-<img src="https://img.shields.io/badge/OpenAI-GPT-412991?style=flat-square&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/Anthropic-Claude-D4A27F?style=flat-square&logo=anthropic&logoColor=white" /> <img src="https://img.shields.io/badge/Google-Gemini%20%2F%20Gemma-4285F4?style=flat-square&logo=google&logoColor=white" /> <img src="https://img.shields.io/badge/Meta-Llama-0467DF?style=flat-square&logo=meta&logoColor=white" /> <img src="https://img.shields.io/badge/Mistral-Mixtral-FF7000?style=flat-square&logo=mistral&logoColor=white" /> <img src="https://img.shields.io/badge/DeepSeek-models-4D6BFE?style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/RAG-00d4ff?style=flat-square" />
-
-🔹 Real-time chat, one **unified API** across providers<br/>
-🔹 **GPT**, **Claude**, **Gemini / Gemma**, **Llama**, **Mistral**, **DeepSeek**, and more<br/>
-🔹 **RAG** on your own documents and data<br/>
-🔹 Swap models without rewrites; built to **scale** for teams
+<img src="https://img.shields.io/badge/Phaser-FF0000?style=flat&logo=phaser&logoColor=white" /> <img src="https://img.shields.io/badge/Mistral-FF7000?style=flat" /> <img src="https://img.shields.io/badge/RAG-00d4ff?style=flat" />
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🧑‍💼 Lands Authority — Employee Tracking
+**Lands Authority** — Employee tracking  
+Attendance, RBAC, and SSR dashboards for enterprise ops.
 
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" /> <img src="https://img.shields.io/badge/RBAC-FF6B35?style=flat-square" /> <img src="https://img.shields.io/badge/SSR-00d4ff?style=flat-square" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" /> <img src="https://img.shields.io/badge/RBAC-FF6B35?style=flat" /> <img src="https://img.shields.io/badge/SSR-00d4ff?style=flat" />
 
-🔹 Attendance tracking + RBAC<br/>
-🔹 SSR optimized dashboards<br/>
-🔹 Enterprise-grade architecture<br/>
-🔹 Comprehensive reporting
-
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-
-### 📊 Lalima — Project Management Tool
-
-<img src="https://img.shields.io/badge/Task_Boards-7B2FF7?style=flat-square" /> <img src="https://img.shields.io/badge/Team_Workflows-00d4ff?style=flat-square" /> <img src="https://img.shields.io/badge/Scalable_APIs-FF6B35?style=flat-square" /> <img src="https://img.shields.io/badge/RBAC-1a1a2e?style=flat-square" /> <img src="https://img.shields.io/badge/Collaboration-00d4ff?style=flat-square" />
-
-🔹 **Kanban-style boards**, milestones, and assignments so teams see status at a glance<br/>
-🔹 **Role-based access** for admins, leads, and contributors across projects and workspaces<br/>
-🔹 **Workflows** for handoffs, reviews, and recurring tasks without losing context<br/>
-🔹 **RESTful / scalable APIs** to integrate with your stack, webhooks, and reporting<br/>
-🔹 Built for **multi-project** orgs that need clarity, not another noisy inbox
-
-</td>
-</tr>
-</table>
-</div>
-
----
-
-<!-- Tech Stack -->
-
-## 🧠 Tech Stack
-
-<div align="center">
-
-### 🚀 Languages
-
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
-</p>
-
-### 🎨 Frontend
-
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
-  <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Radix_UI-161618?style=for-the-badge&logo=radix-ui&logoColor=white" />
-  <img src="https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white" />
-  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
-</p>
-
-### ⚙️ Backend & APIs
-
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apollo_GraphQL-311C87?style=for-the-badge&logo=apollographql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Strapi-2F2E8B?style=for-the-badge&logo=strapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=white" />
-</p>
-
-### 🗄 Database
-
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white" />
-</p>
-
-### 📱 Mobile Development
-
-<p>
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-</p>
-
-### 🤖 AI / ML & Tools
-
-<p>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white" />
-</p>
-
-### 🔐 Auth & Security
-
-<p>
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
-  <img src="https://img.shields.io/badge/OAuth-3C78A9?style=for-the-badge&logo=auth0&logoColor=white" />
-  <img src="https://img.shields.io/badge/RBAC-FF6B35?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Azure_Entra_ID-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure_B2C-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-</p>
-
-### ⚡ State & Data Management
-
-<p>
-  <img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/SWR-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Context_API-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white" />
-</p>
-
-### ☁️ Cloud & DevOps
-
-<p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" />
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
-  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
-</p>
-
-### 🧪 Testing & Quality
-
-<p>
-  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" />
-  <img src="https://img.shields.io/badge/Testing_Library-E33332?style=for-the-badge&logo=testinglibrary&logoColor=white" />
-  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white" />
-  <img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black" />
-  <img src="https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=black" />
-</p>
-
-### 🛠 Tools & Productivity
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gitpod-FFAE33?style=for-the-badge&logo=gitpod&logoColor=black" />
-  <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
-  <img src="https://img.shields.io/badge/PNPM-F69220?style=for-the-badge&logo=pnpm&logoColor=white" />
-  <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
-  <img src="https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white" />
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" />
-  <img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
-</p>
-
-</div>
-
----
-
-<!-- GitHub Stats Section -->
-
-## 📊 GitHub Stats
-
-<table align="center" border="0" cellspacing="12" cellpadding="0" width="100%" style="max-width: 980px; border: none; border-collapse: collapse; background: transparent;">
-<tr>
-<td align="center" valign="top" width="50%" style="border: none; padding: 8px; background: transparent;">
-<a href="https://github.com/deveshmaurya1996"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=deveshmaurya1996&show_icons=true&hide_rank=true&hide_title=true&count_private=true&hide_border=true&title_color=00d4ff&icon_color=7b2ff7&text_color=c9d1d9&bg_color=00000000&border_color=00000000&ring_color=7b2ff7" alt="" width="465" height="220" style="width: 465px; max-width: 100%; height: auto; background: transparent;" /></a>
-</td>
-<td align="center" valign="top" width="50%" style="border: none; padding: 8px; background: transparent;">
-<a href="https://github.com/deveshmaurya1996"><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=deveshmaurya1996&layout=compact&hide_title=true&hide_border=true&title_color=00d4ff&icon_color=7b2ff7&text_color=c9d1d9&bg_color=00000000&border_color=00000000&langs_count=10&card_width=380" alt="" width="465" height="220" style="width: 465px; max-width: 100%; height: auto; background: transparent;" /></a>
-</td>
-</tr>
-</table>
-
-<br/>
-
-<div align="center">
-  <a href="https://github.com/deveshmaurya1996">
-    <img width="70%" src="https://streak-stats.demolab.com?user=deveshmaurya1996&theme=black-ice&hide_border=true&background=0D1117&ring=00d4ff&fire=7b2ff7&currStreakLabel=00d4ff" alt="GitHub Streak" />
-  </a>
-</div>
-
-<br/>
-
-<!-- Activity Graph -->
-<div align="center">
-  <a href="https://github.com/deveshmaurya1996">
-    <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=deveshmaurya1996&bg_color=0d1117&color=00d4ff&line=7b2ff7&point=00d4ff&area=true&area_color=7b2ff7&hide_border=true" alt="Contribution Graph" />
-  </a>
-</div>
-
-<br/>
-
-<!-- Trophies -->
-<div align="center">
-  <a href="https://github.com/deveshmaurya1996">
-    <img src="https://profile-trophy.vercel.app/?username=deveshmaurya1996&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-  </a>
-</div>
-
----
-
-<!-- Currently Building Section -->
-
-## ⚡ Currently Building
-
-<table align="center" width="100%" style="max-width: 960px; table-layout: fixed; border: 0;">
-<tr>
-<td align="center" valign="top" width="33%">
-<img src="https://img.shields.io/badge/🛠_Developer_CLI_Tools-FF6B35?style=for-the-badge" /><br/><br/>
-<b>CLI Productivity</b><br/>
-Developer workflow automation
-</td>
-<td align="center" valign="top" width="33%">
-<img src="https://img.shields.io/badge/📦_Media_Bunch-9D4EDD?style=for-the-badge" /><br/><br/>
-<b>Content hub</b><br/>
-Media pipelines, assets &amp; delivery
-</td>
-<td align="center" valign="top" width="33%">
-<img src="https://img.shields.io/badge/🤝_DevHire-10B981?style=for-the-badge" /><br/><br/>
-<b>Dev hiring</b><br/>
-Match teams with vetted engineering talent
 </td>
 </tr>
 </table>
 
 ---
 
-<!-- Connect Section -->
+### Stack
 
-## 📫 Connect With Me
+```
+Languages   TypeScript · JavaScript · Python
+Frontend    React · Next.js · Tailwind
+Backend     Node.js · Fastify · NestJS
+Mobile      React Native · Expo
+Data        PostgreSQL · MongoDB · Prisma · Redis
+Platform    Docker · Vercel · Azure · GitHub Actions
+AI          OpenAI · Azure OpenAI · multi-provider gateways
+```
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/deveshmaurya1996" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://devesh-maurya-portfolio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://github.com/deveshmaurya1996" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</div>
-
----
-
-<!-- Snake Animation -->
-<div align="center">
-
-## 🐍 My Contributions
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/deveshmaurya1996/deveshmaurya1996/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/deveshmaurya1996/deveshmaurya1996/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/deveshmaurya1996/deveshmaurya1996/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</picture>
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI_Gate-00d4ff?style=flat" />
+</p>
 
 ---
 
-<!-- Quote -->
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-</div>
+### Stats
 
-<br/>
+<p align="center">
+  <a href="https://github.com/deveshmaurya1996">
+    <img height="160" src="https://github-readme-stats.vercel.app/api?username=deveshmaurya1996&show_icons=true&hide_title=true&count_private=true&hide_border=true&title_color=00d4ff&icon_color=00d4ff&text_color=8b949e&bg_color=00000000" alt="GitHub stats" />
+  </a>
+  <a href="https://github.com/deveshmaurya1996">
+    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deveshmaurya1996&layout=compact&hide_title=true&hide_border=true&title_color=00d4ff&text_color=8b949e&bg_color=00000000&langs_count=8" alt="Top languages" />
+  </a>
+</p>
 
-<div align="center">
-  <b>🧠 Fun Fact:</b> <i>I’m happiest when code stays clear and easy to change as projects grow.</i>
-</div>
+---
 
-<br/>
+### Contact
 
-<!-- Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:7b2ff7&height=120&section=footer" />
+[devesh-maurya-portfolio.vercel.app](https://devesh-maurya-portfolio.vercel.app/) · [linkedin.com/in/deveshmaurya1996](https://www.linkedin.com/in/deveshmaurya1996) · [github.com/deveshmaurya1996](https://github.com/deveshmaurya1996)
